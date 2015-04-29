@@ -1,8 +1,10 @@
 # dtConverter
-Projekt na przedmiot Grafika Komputerowa i Multimedia
-Projekt zosta³ wykonany w jêzyku C++ w srodowisku QtCreator.
-Aplikacja dokonuje kompresji pliku BMP za pomoc¹ algorytmu LZW.
-Zespó³:
+Projekt na przedmiot Grafika Komputerowa i Multimedia.
+
+Projekt zostaÅ‚ wykonany w jÄ™zyku C++ w srodowisku QtCreator.
+Aplikacja dokonuje kompresji pliku BMP, za pomoca algorytmu LZW.
+
+ZespÃ³Å‚:
 Mateusz Bryzik
 Mateusz Brycki
 Damian Jedynak
